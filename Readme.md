@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">• Studying Networking<br>• Developing CyberEdge and AkameKernel Kali Nethunter Kernels<br>• Competeing CTF challenges with JordanSec National CTF Team<br>• Learning and working on android ROMs development and Unity/Godot games development</p>
+<p align="left">• Studying Networking<br>• Developing CyberEdge and AkameKernel Kali Nethunter Kernels<br>• Competeing CTF challenges with JordanSec National CTF Team<br>• Learning and working on android ROMs development and Unity games development</p>
 
 ###
 
@@ -63,7 +63,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
 </div>
 
 ###
