@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">• Studying Networking<br>• Developing CyberEdge and AkameKernel Kali Nethunter Kernels<br>• Competeing CTF challenges with JordanSec National CTF Team<br>• Learning and working on android ROMs development and Unity games development</p>
+<p align="left">• Studying Networking<br>• Developing CyberEdge Kali Nethunter Linux Kernels<br>• Competeing CTF challenges with JordanSec National CTF Team<br>• Learning and working on android ROMs development and Unity games development and also Ai training and developing</p>
 
 ###
 
