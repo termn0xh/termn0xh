@@ -20,11 +20,11 @@
 
 ###
 
-<h3 align="left">I'm Husam Alhayek, a Jordanian CTF Player and Android Developer 👋🏼:</h3>
+<h3 align="left">I'm Husam Alhayek, a Jordanian CTF Player and Developer 👋🏼:</h3>
 
 ###
 
-<p align="left">• Studying Networking<br>• Developing CyberEdge Kali Nethunter Linux Kernels<br>• Competeing CTF challenges with JordanSec National CTF Team<br>• Learning and working on android ROMs development and Unity games development and also Ai training and developing</p>
+<p align="left">• Studying Networking<br>• Developing CyberEdge Kali Nethunter Linux Kernels<br>• Competeing CTF challenges with JordanSec National CTF Team<br>• Learning and working on android ROMs and Unity games development and also Ai training and developing</p>
 
 ###
 
