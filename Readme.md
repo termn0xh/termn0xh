@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="center">👩‍💻  About termnh</h3>
+<h3 align="center">About termnh</h3>
 
 ###
 
-<h3 align="left">I'm Husam Alhayek, a Jordanian CTF Player and Developer 👋🏼:</h3>
+<h3 align="left">I'm Husam Alhayek, a Jordanian CTF Player and Developer :</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">Language and tools</h3>
 
 ###
 
